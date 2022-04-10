@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BinartSearchTree/BinartSearchTree.iml" filepath="$PROJECT_DIR$/BinartSearchTree/BinartSearchTree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Trees/BinarySearchTrees.iml" filepath="$PROJECT_DIR$/Trees/BinarySearchTrees.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/DSAlgo.iml" filepath="$PROJECT_DIR$/.idea/DSAlgo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Linkedlist/Linkedlist.iml" filepath="$PROJECT_DIR$/Linkedlist/Linkedlist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Trees/Trees.iml" filepath="$PROJECT_DIR$/Trees/Trees.iml" />
+    </modules>
+  </component>
+</project>
