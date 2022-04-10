@@ -12,7 +12,6 @@ import java.util.HashSet;
 
 public class CommonNodesinTwoBST {
 
-    //HashMap<Integer,Integer> map = new HashMap<>();
     HashSet<Integer> set = new HashSet();
     long count =0l;
     public int solve(TreeNode A, TreeNode B) {
