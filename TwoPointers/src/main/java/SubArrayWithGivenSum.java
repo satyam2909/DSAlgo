@@ -22,8 +22,6 @@ public class SubArrayWithGivenSum {
                 return res;
             }
         }
-
-
         int l = 0;
         int r = 1;
         int sum = A.get(0);
