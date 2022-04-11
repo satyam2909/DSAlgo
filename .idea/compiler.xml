@@ -7,10 +7,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="BinartSearchTree" />
+        <module name="TwoPointers" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="BinartSearchTree" target="1.5" />
+      <module name="TwoPointers" target="15" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
