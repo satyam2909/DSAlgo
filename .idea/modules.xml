@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/Trees/BinarySearchTrees.iml" filepath="$PROJECT_DIR$/Trees/BinarySearchTrees.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/DSAlgo.iml" filepath="$PROJECT_DIR$/.idea/DSAlgo.iml" />
       <module fileurl="file://$PROJECT_DIR$/Linkedlist/Linkedlist.iml" filepath="$PROJECT_DIR$/Linkedlist/Linkedlist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StackAndQueues/StackAndQueues.iml" filepath="$PROJECT_DIR$/StackAndQueues/StackAndQueues.iml" />
       <module fileurl="file://$PROJECT_DIR$/Trees/Trees.iml" filepath="$PROJECT_DIR$/Trees/Trees.iml" />
       <module fileurl="file://$PROJECT_DIR$/TwoPointers/TwoPointers.iml" filepath="$PROJECT_DIR$/TwoPointers/TwoPointers.iml" />
     </modules>
