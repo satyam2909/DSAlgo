@@ -26,12 +26,11 @@ public class BalanceParanthesis {
                     if((char)stack.peek() =='{')
                         stack.pop();
                 }
-
-                if(A.charAt(i)==')')
+                    if(A.charAt(i)==')')
                 {
                     if((char)stack.peek() =='(')
                         stack.pop();
-                }
+                 }
 
                 if(A.charAt(i)==']')
                 {

@@ -16,9 +16,7 @@ public class TwoSumBST {
     public void inOrder(TreeNode A){
         if(A==null)
             return;
-
         inOrder(A.left);
-
         list.add(A.val);
         if(set.contains(C-A.val))
             ans=1;

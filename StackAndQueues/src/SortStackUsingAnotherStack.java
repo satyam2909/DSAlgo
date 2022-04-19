@@ -15,11 +15,9 @@ public class SortStackUsingAnotherStack {
         while(!input.isEmpty()){
             int temp = input.pop();
 
-            while(!tempStack.isEmpty() && temp>tempStack.peek()){
-
+            while(!tempStack.isEmpty() && temp>tempStack.peek())
                 input.push(tempStack.pop());
 
-            }
             tempStack.push(temp);
         }
 
