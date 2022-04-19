@@ -11,7 +11,6 @@ public class SortStackUsingAnotherStack {
         for(int i=0; i<A.size(); i++)
             input.push(A.get(i));
 
-
         while(!input.isEmpty()){
             int temp = input.pop();
 
