@@ -23,8 +23,7 @@ public class NthMagicNumber {
         int pow=1;
 
         for(int i=bin.size()-1;i>=0;i--){
-
-            if(bin.get(i)==1) {
+                if(bin.get(i)==1) {
                 ans+=Math.pow(5,pow);
             }
             pow++;
