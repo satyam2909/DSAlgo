@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/DSAlgo.iml" filepath="$PROJECT_DIR$/.idea/DSAlgo.iml" />
       <module fileurl="file://$PROJECT_DIR$/Linkedlist/Linkedlist.iml" filepath="$PROJECT_DIR$/Linkedlist/Linkedlist.iml" />
       <module fileurl="file://$PROJECT_DIR$/Maths/Maths.iml" filepath="$PROJECT_DIR$/Maths/Maths.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Matrix/Matrix.iml" filepath="$PROJECT_DIR$/Matrix/Matrix.iml" />
       <module fileurl="file://$PROJECT_DIR$/Puzzles/Puzzles.iml" filepath="$PROJECT_DIR$/Puzzles/Puzzles.iml" />
       <module fileurl="file://$PROJECT_DIR$/StackAndQueues/StackAndQueues.iml" filepath="$PROJECT_DIR$/StackAndQueues/StackAndQueues.iml" />
       <module fileurl="file://$PROJECT_DIR$/Trees/Trees.iml" filepath="$PROJECT_DIR$/Trees/Trees.iml" />
